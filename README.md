@@ -10,3 +10,4 @@ Research by Tanya Molodtsova and David Papell in their 2009 paper "Out-of-sample
 1. The Taylor Rule fundamentals (i.e., variables) used are interest rates, inflation rates and output. As noted above, I take the difference of these variables between both countries in order to obtain our forecasts.
 2. I plot the forecasted values over the actual values to provide a visulization of predictive accuracy. This also allows me to visualize the consistent differences between predicited and actual valuess, thus allowing for a quick understanding of where the model is failing.
 3. I use the ordinary least squares (OLS) method for my forecasting. This comes from the StatsModels package which you can see imported at the top of my script.
+4. All supporting data that is used in my script can be found in the "Supporting_Data" folder, should you be looking to replicate this exact work.
